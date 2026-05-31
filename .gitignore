@@ -1,0 +1,39 @@
+# ====================================================================
+# Git Ignore Configuration for Python Telegram Bot (TELEGRAM_LEAD_BOT)
+# ====================================================================
+
+# Python Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (CRITICAL: Never commit local environments)
+.venv/
+venv/
+ENV/
+env/
+pyvenv.cfg
+
+# Database & Runtime Data Files (Ignore dynamic text logs and databases)
+chats.txt
+logs.txt
+sent_messages.txt
+
+# Credentials and Session Files (CRITICAL SECURITY RISK)
+config.py
+*.session
+
+# Operating System & IDE Artifacts
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
+
+# Server shortcuts and internal documentation
+*.lnk
+*Інструкція з налаштування сервера.docx

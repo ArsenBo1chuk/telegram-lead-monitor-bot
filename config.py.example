@@ -1,0 +1,10 @@
+API_ID = 0000000
+API_HASH = "YOUR_API_HASH"
+
+MY_ID = 0000000000
+
+KEYWORDS_FILE = "keywords.txt"
+CHATS_FILE = "chats.txt"
+LOG_FILE = "logs.txt"
+SENT_FILE = "sent_messages.txt"
+SESSION_NAME = "session"

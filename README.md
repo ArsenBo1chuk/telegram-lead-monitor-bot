@@ -339,4 +339,4 @@ YourBrand
 
 ## ⭐ Support
 
-If this project helped you, consider giving it a star.
+If this project helped you, consider giving it a star!
